@@ -12,6 +12,8 @@ A little about me :innocent: :
 - 👯 I’m looking to collaborate on fullstack projects
 - 📫 How to reach me: Email: BenjaminKHLau@gmail.com 📫 
 
+![](https://komarev.com/ghpvc/?username=BenjaminKHLau&color=blue)
+
 
 Technologies Used:
 
